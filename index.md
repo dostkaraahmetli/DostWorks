@@ -57,7 +57,8 @@ Here you can find some examples from my latest work experience where I've led Sh
 Here you'll find some sample work I've done on my data science journey. The work includes R, Python and SQL scripts as well as data visualisation and interpretation.
 
 + **[Grocery Shopper Marketing Applications: 
-**Market Basket Analysis and Recommender System](https://github.com/dostkaraahmetli/DostWorks/blob/master/files/Capstone%20Report%20Dost%20Karaahmetli.pdf)**
+
+Market Basket Analysis and Recommender System](https://github.com/dostkaraahmetli/DostWorks/blob/master/files/Capstone%20Report%20Dost%20Karaahmetli.pdf)**
 + [NYC 311 Complaints System: Machine Learning Model for Complaint Prediction](https://dostkaraahmetli.github.io/DostWorks/files/311%20Complaints%20System%20to%20HPD)
 + [Spotify Sentiment and EDA Project Report with Musical Horoscope](https://dostkaraahmetli.github.io/DostWorks/files/spoRify-Gr-Pr-Final-Report.html)
 + [Yelp Dataset EDA](https://dostkaraahmetli.github.io/DostWorks/files/BDM505SpoRifyTermProject.html)
