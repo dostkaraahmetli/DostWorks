@@ -6,7 +6,6 @@
 Istanbul | +90 555 3400022 | dost.karaahmetli@shift-istanbul.com
 
 -------------------------------------------------------------------------
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="3a01ab0f-143b-41b3-9c3c-4b9c1c536e4f" data-share-badge-host="https://www.youracclaim.com"></div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>
 
 -------------------------------------------------------------------------
 
@@ -25,6 +24,8 @@ As Data Science is playing a more and more important role in future marketing an
 **[Please follow the link for my Resume](https://github.com/dostkaraahmetli/DostWorks/blob/master/files/Dost%20Karaahmetli%20Resume.pdf)**
 
 ## Certifications
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="3a01ab0f-143b-41b3-9c3c-4b9c1c536e4f" data-share-badge-host="https://www.youracclaim.com"></div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>
 
 + edX / Columbia University:
   + **[Data Science for Executives](https://credentials.edx.org/credentials/57675f823c5f4bd4a84efd512cd58586/)**
