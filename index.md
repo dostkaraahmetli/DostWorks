@@ -21,7 +21,7 @@ I hold a bachelor’s degree in Political Sciences and come from a marketing bac
 
 As Data Science is playing a more and more important role in future marketing and business decision making, mastering necessary tools and concepts in Big Data and Analytics would be a huge competitive edge while making strategic interpretations. So then, I enrolled to an online program, and earned “Data Science for Executives Professional Certificate” from Columbia University in order to acquire an understanding on the subject. After succesfully achieving the Professional Certificate, I figured out that I could go all the way, and gained the Master of Science in Big Data Analytics degree at MEF University. 
 
-**[Please follow the link for my Resume](https://github.com/dostkaraahmetli/DostWorks/blob/master/files/Dost%20Karaahmetli%20Resume.pdf)**
+**[Please follow the link for my Resume](https://github.com/dostkaraahmetli/DostWorks/blob/master/files/Resume%20Dost%20Karaahmetli.pdf)**
 
 ## Certifications
 
